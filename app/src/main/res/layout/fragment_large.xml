@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:layout_margin="4dp"
+    tools:context=".ui.fragment.LargeFragment">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/teal_200"
+        android:outlineSpotShadowColor="@color/teal_200"
+        app:cardCornerRadius="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:text="@string/dogecoin_y_kseliyor"
+            android:textSize="32dp" />
+
+        <ImageView
+
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/dogecoin" />
+
+        <TextView
+            android:layout_width="180dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="54dp"
+            android:text="@string/doge"
+            android:textSize="18sp" />
+    </androidx.cardview.widget.CardView>
+
+</FrameLayout>

@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Keko_App_2</string>
+    <string name="large_text">
+       Bir kripto paranın şu 6 özelliği olması beklenir:
+
+Merkeziyetsizlik,
+İşlem ve sahip kayıtları,
+Yeni arz oluşturma kuralları,
+Sahipliğinin kriptografik tekniklerle sadece sahibince ispat edilebilmesi,
+Paranın sadece sahibinin emriyle el değiştirebilmesi,
+Aynı anda aynı kripto para için birden fazla işlem yapılırsa sadece birinin yerine getirilmesi.
+Biraz daha genelleyerek açarsak:
+
+Kripto para temelde bir elektronik paradır ve onun genel özelliklerini aynen taşır:
+Değerli olduğuna inanıldığı için, ve taklit edilemediği, kayıtlı olduğu, kayıtlarının yani muhasebe defterlerinin (ing. "ledger") güvenliğinin, kırılması neredeyse imkansız şifrelerle, yani kripto tekniklerle sağlandığı, parayı basan kurumun keyfi uygulamalarla ya da kazayla değerini düşürme ihtimali az olduğu için değerlidir.
+Elektronik paraya şu sebeplerden sanal para da denir.
+Elektronik para eritildiklerinde pek değer kaybetmeyen altın ve gümüş paralar gibi değerini gram olarak içinde taşımaz, bir yerlerde altın karşılığı olan bir belge de değildir.
+Elektronik para özelliklerinin taklidi zor olan ve detayları herkesçe bilinen fiziki bir nesne de değildir.
+Elektronik para devlet veya kanun gözünde genel geçerliliği olan bir değişim aracı da değildir (devlet sadece kendi bastığı ulusal parayı öngörür), bu yüzden sadece belli gruplar içinde kullanılabilir, orada da olsa olsa ticari bir anlaşma ya da senet benzeri hukuki yaklaşım söz konusu olabilir.
+Kripto para aynı zamanda bir ağ (network) parasıdır ki özellikle internet gibi bir bilgisayar ağı üzerinden elektronik ortamda sayısal (dijital) olarak saklanır, havale edilebilir ve kullanılır.[11]
+Bazı kripto paralar (banka kartı gibi), tıpkı geleneksel parada olduğu gibi, parayı "basan" kurumun kayıtları ve garantisi ile ayakta dururlar. Bunlar için merkezi terimi kullanılır ve hakimiyet de muhasebe defterlerini tutan o merkezin elindedir.
+Başka bazı kripto paralar (bitcoin gibi) muhasebe defterlerinin fazladan kopyaları birçok yerde tutulduğu ve bunlar her biri başka mercilerce kendi şifreleriyle kilitlenip devamlı ve eş zamanlı güncellendiği için belli bir merkezden bağımsız bir güven ve garanti söz konusudur. Bunlar için merkezsiz ya da dağınık terimi kullanılır ve hakimiyet bütün bu muhasebe defterlerini tutanlar birlikte karar verebildiği kadar onların elindedir yoksa devlet dahil kimsenin elinde değildir.
+Merkezsiz kripto parayı kim basar, ilk kim faydalanır? Genellikle para önceden belli bir programa göre azar azar otomatik olarak basılır ve merkezsiz işlemleri, şifre hesaplarını yapan, ve muhasebe defterlerini diğer kopyalarıyla uyumlu tutanlara ispatlanmış emek karşılığı olarak verilir. Söz konusu emek zor bir hesabın cevabı olabilir; Bu zorluk "bana ver! bana ver!" şeklinde hizmet tıkayıcı (İng. "Denial of Service/DOS") hadsizlikleri önlemek amaçlıdır. Çok elektrik israfına sebep olduğu için eleştirilir. Bu yüzden ispatlanmış emek yerine ispatlanmış hak usulüyle üretilen kripto para çeşitleri de çıkartılmıştır.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="doge">Dogecoin, logosunda ve isminde Doge olarak anılan bir Shiba Inu cinsi köpeği taşır</string>
+    <string name="dogecoin_y_kseliyor">DogeCoin yükseliyor !!!</string>
+    <string name="small_text">Kripto paralar döviz mi ?</string>
+    <string name="small_desc">Kripto paralar bir nevi dijital döviz, alternatif döviz ve sanal döviz’dir</string>
+    <string name="medium_desc">Satoshi Nakamoto adını kullanmış bilinmeyen bir kişi tarafından icat edilmiş bir kriptoparadır</string>
+    <string name="medium_title">BitCoin yine zararda ?</string>
 </resources>

@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/_ANDROID_/Keko_App_2/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/_ANDROID_/Keko_App_2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/_ANDROID_/Keko_App_2/app/src/main/res/layout/fake.xml" value="0.3625" />
+        <entry key="..\:/_ANDROID_/Keko_App_2/app/src/main/res/layout/fragment_detail_scrolling.xml" value="0.23090799759470837" />
+        <entry key="..\:/_ANDROID_/Keko_App_2/app/src/main/res/layout/fragment_large.xml" value="0.1" />
+        <entry key="..\:/_ANDROID_/Keko_App_2/app/src/main/res/layout/fragment_medium.xml" value="0.33" />
+        <entry key="..\:/_ANDROID_/Keko_App_2/app/src/main/res/layout/fragment_scrolling.xml" value="0.25462962962962965" />
+        <entry key="..\:/_ANDROID_/Keko_App_2/app/src/main/res/layout/fragment_small.xml" value="0.30572916666666666" />
       </map>
     </option>
   </component>
@@ -12,5 +18,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.30572916666666666" />
+      </ProjectState>
+    </option>
   </component>
 </project>
